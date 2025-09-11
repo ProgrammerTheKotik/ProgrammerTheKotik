@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @ProgrammerTheKotik
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning at school in the 3rd grade
+Hi!
 
 
 <!---
